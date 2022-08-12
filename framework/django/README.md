@@ -4,3 +4,12 @@ This subdirectory contains Django framework practice code based on the following
 
 - [djangoproject.com tutorial 01](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
 - [djangoproject.com tutorial 02](https://docs.djangoproject.com/en/3.2/intro/tutorial02/)
+
+# Install
+
+Create a Python virtual environment in this directory:
+
+```bash
+python -m venv .venv
+source .venv/Scripts/activate
+```
