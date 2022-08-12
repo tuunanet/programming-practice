@@ -1,4 +1,4 @@
-# Practice Django Framework
+# Practice with official Django Framework tutorials
 
 This subdirectory contains Django framework practice code based on the following tutorials:
 
