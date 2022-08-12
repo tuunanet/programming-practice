@@ -7,9 +7,17 @@ This subdirectory contains Django framework practice code based on the following
 
 # Install
 
-Create a Python virtual environment in this directory:
+Create a Python virtual environment in this subdirectory and activate it:
 
 ```bash
 python -m venv .venv
 source .venv/Scripts/activate
 ```
+
+Then install django and some useful tools:
+
+```bash
+pip install Django ipython
+```
+
+> More install details [here](https://docs.djangoproject.com/en/3.2/intro/install/)
