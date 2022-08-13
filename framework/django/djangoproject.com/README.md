@@ -14,7 +14,7 @@ python -m venv .venv
 source .venv/Scripts/activate
 ```
 
-Then install django and some useful tools:
+Then install django and some other Python packages you need:
 
 ```bash
 pip install Django ipython
